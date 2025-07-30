@@ -1,0 +1,7 @@
+Model,RMSE,MAE,R2 Score
+Linear Regression,6922.89,4647.51,0.9065
+Gradient Boosting,4428.05,2683.76,0.9617
+Neural Network,5070.96,3064.37,0.9498
+RF (Grid Search),2139.58,774.86,0.9911
+XGBoost (Grid Search),2545.55,1388.15,0.9874
+Stacking Ensemble (RF + XGB + NN),2122.81,869.11,0.9912
